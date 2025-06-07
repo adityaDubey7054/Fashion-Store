@@ -1,4 +1,4 @@
- # Fashion Store Project
+# Fashion Store Project
 
 A sleek and modern e-commerce platform designed for fashion retailers. This project provides an intuitive user experience for browsing, searching, and purchasing fashion products while offering an easy-to-use admin dashboard for managing the store.
 
@@ -55,32 +55,23 @@ This project is ideal for showcasing e-commerce design and implementation skills
 
 ---
 
+## Live Demo
+
+Check out the live project here:  
+[https://adityadubey7054.github.io/Fashion-Store/](https://adityadubey7054.github.io/Fashion-Store/)
+
+---
+
 ## Installation
 
 ### Prerequisites
-Ensure you have the following installed:
+Make sure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - npm or yarn package manager
 - MongoDB (local or cloud)
 
 ### Steps to Run Locally
-1. **Clone the Repository**:
+
+1. **Clone the Repository**  
    ```bash
-  https://adityadubey7054.github.io/Fashion-Store/
-
-
-
-
-# Install frontend dependencies
-cd client
-npm install
-# Or use yarn
-yarn install
-
-# Install backend dependencies
-cd ../server
-npm install
-
-
-cd client
-npm start
+   git clone https://github.com/adityadubey7054/Fashion-Store.git
