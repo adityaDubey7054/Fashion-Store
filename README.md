@@ -66,8 +66,7 @@ Ensure you have the following installed:
 ### Steps to Run Locally
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/fashion-store.git
-   cd fashion-store
+  https://adityadubey7054.github.io/Fashion-Store/
 
 
 
